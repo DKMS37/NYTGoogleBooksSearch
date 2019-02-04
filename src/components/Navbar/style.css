@@ -1,0 +1,24 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+  }
+
+.jumbotron {
+    background-image: url("https://c1.staticflickr.com/2/1689/26448234242_41fb527296_b.jpg");
+    opacity: .9;
+   filter: blur(.2px);
+  
+}
+
+.text {
+    color: #47ff1e;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+.text1 {
+    color: #ffff3c;
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
