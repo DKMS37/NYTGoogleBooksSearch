@@ -2,6 +2,10 @@ nav.navbar.navbar-default {
     margin-bottom: 0;
   }
 
+.navbar{
+    font-size: 23px;
+
+}
 .jumbotron {
     background-image: url("https://c1.staticflickr.com/2/1689/26448234242_41fb527296_b.jpg");
     opacity: .9;
